@@ -1,5 +1,7 @@
 # Star Wars Survey Analysis
 
+![Star Wars Thumbnail](https://i.ytimg.com/vi/BbAzZXNrW8I/hqdefault.jpg)
+
 ## Overview
 This project analyzes survey data from Star Wars fans to examine viewing habits, film rankings, and character sentiment across the franchise. Using a real-world dataset collected via SurveyMonkey and published by FiveThirtyEight, the analysis focuses on data cleaning, feature engineering, and exploratory analysis to evaluate audience preferences, including whether *The Empire Strikes Back* is the most favored film.
 
