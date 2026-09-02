@@ -16,7 +16,7 @@ The original trilogy consistently receives stronger average rankings than the pr
 
 *The Empire Strikes Back* stands out as the strongest-ranked film overall, suggesting that audience preference extends beyond simple exposure or franchise familiarity.
 
-![Average Film Rankings](images/average-film-rankings.png)
+![Average Film Rankings](images/average-film-rankings1.png)
 
 ## Audience Viewing Behavior
 
@@ -24,7 +24,7 @@ Viewership is concentrated around the original trilogy, with Episodes IV–VI re
 
 Comparing viewership with average rankings also shows that several of the most widely viewed films are among the highest-rated, suggesting a relationship between audience reach and preference.
 
-![Film Viewership](images/film-viewership.png)
+![Film Viewership](images/film-viewership1.png)
 
 ## Audience Segmentation
 
@@ -34,7 +34,7 @@ The original trilogy ranks highly across all age groups, indicating that its app
 
 This suggests sustained franchise value across generations rather than preference being driven by only one demographic segment.
 
-![Film Rankings by Age Group](images/rankings-by-age-group.png)
+![Film Rankings by Age Group](images/rankings-by-age-group1.png)
 
 ### 2. Male and female respondents show similar overall preferences
 
@@ -42,7 +42,7 @@ Both male and female respondents generally prefer the original trilogy.
 
 However, male respondents reported higher viewership of the prequel trilogy, while female respondents who had seen those films tended to rank them somewhat more favorably.
 
-![Film Preferences by Gender](images/rankings-by-gender.png)
+![Film Preferences by Gender](images/rankings-by-gender1.png)
 
 ### 3. Regional preferences are broadly consistent
 
@@ -58,7 +58,7 @@ Han Solo receives the highest number of favorable responses in the survey analys
 
 Character-level analysis provides another way to understand audience attachment beyond movie-level rankings and viewership.
 
-![Character Favorability](images/character-favorability.png)
+![Character Favorability](images/character-favorability1.png)
 
 ## Audience Insights
 
