@@ -50,8 +50,6 @@ Across U.S. census regions, the original trilogy generally maintains stronger av
 
 The consistency across regions suggests that preference for Episodes IV–VI is relatively broad rather than concentrated in a particular geographic market.
 
-![Film Rankings by Region](images/rankings-by-region.png)
-
 ## Character Sentiment
 
 Audience sentiment varies substantially across major Star Wars characters.
